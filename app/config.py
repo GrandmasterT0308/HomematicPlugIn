@@ -1,9 +1,6 @@
 MQTT_HOST = "192.168.2.111"
 MQTT_PORT = 1883
 
-REST_HOST = "192.168.2.111"
-REST_PORT = 2122
-
 # Beispieltopic, an das das Plugin sich subscribt
 MQTT_ENDPOINTS = [
     {
